@@ -12,47 +12,47 @@ public class FrequencyChart {
 
         //methods
     public String makeChart(){
-        System.out.print("1-10|");
+        System.out.print("  1-10|");
         for(int i=0; i<counter(1,11); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("11-20|");
+        System.out.print(" 11-20|");
         for(int i=0; i<counter(11,21); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("21-30|");
+        System.out.print(" 21-30|");
         for(int i=0; i<counter(21,31); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("31-40|");
+        System.out.print(" 31-40|");
         for(int i=0; i<counter(31,41); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("41-50|");
+        System.out.print(" 41-50|");
         for(int i=0; i<counter(41,51); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("51-60|");
+        System.out.print(" 51-60|");
         for(int i=0; i<counter(51,61); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("61-70|");
+        System.out.print(" 61-70|");
         for(int i=0; i<counter(61,71); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("71-80|");
+        System.out.print(" 71-80|");
         for(int i=0; i<counter(71,81); i++){
             System.out.print("*");
         }
         System.out.print("\n");
-        System.out.print("81-90|");
+        System.out.print(" 81-90|");
         for(int i=0; i<counter(81,91); i++){
             System.out.print("*");
         }
